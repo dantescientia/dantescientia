@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Daniyar 👋
 
-<!--
-**dantescientia/dantescientia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st year Software Engineering student @ FI MUNI (Brno, CZ)  
+Aspiring DevOps engineer, focused on Red Hat technologies  
+Currently working on: RHEL bash utils, Docker CI/CD, Kubernetes demos  
+Reach me: [email](mailto:zhuzbekdanik@gmail.com)
 
-Here are some ideas to get you started:
+## Tech stack
+- Linux (Fedora / RHEL)
+- Bash scripting
+- Docker & GitHub Actions
+- Kubernetes basics
+- Ansible (starter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [rhel-bash-util](https://github.com/dantescientia/rhel-bash-util) – Bash utilities for RHEL/Fedora
+- [flask-docker-ci](https://github.com/dantescientia/flask-docker-ci) – Flask app with Docker + GitHub Actions
+- [simple-webapp-ci-cd](https://github.com/dantescientia/simple-webapp-ci-cd) – toy CI/CD pipeline
+
+---
+*"Learning by doing. Breaking → fixing → automating."*
